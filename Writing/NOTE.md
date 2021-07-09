@@ -56,10 +56,12 @@
 
 对...有理解：have an understanding of ...
 
+...的能力:  the ability to do     // 不能用 of doing !!!
+
 ## 高频词用法
 
-> reason
->
+### reason
+
 > The pandemic coronavirus is ==the reason why/that== many businesses have shut down.
 >
 > The pandemic coronavirus is ==why== many businesses have shut down.	//表语从句
@@ -68,24 +70,24 @@
 
 
 
-> responsibility
->
+### responsibility
+
 > 使用 take/shoulder/bear/assume
 >
 > Every one of us should take/shoulder/bear/assume the responsibility of taking care of aged parents.
 
 
 
-> undertake
->
+### undertake
+
 > 后面往往接 task，project，work，research，study，journey，analysis，duties
 >
 > Every one of us should undertake the task/duties of taking care of aged parents.
 
 
 
-> meet
->
+### meet
+
 > meet one's need：满足某人需求
 >
 > e.g. Last but not least, the power of the Internet lies in that it meets people's mental and social needs.
@@ -95,6 +97,167 @@
 > meet with something：出现某种结果/状况
 >
 > e.g. Professor Smith's speech have met with wide controversy.
+
+
+
+### spend
+
+> ==spend money on someone/something== 在某事/物上花钱
+>
+> ==spend time with someone==花时间和某人在一起
+>
+> ==spend time in something== 在某事上花费时间
+>
+> ==spend time etc. (on) doing something== 花时间做某事
+>
+> 
+>
+> 练习
+>
+> 1. 统计表明,中国年轻人每天平均花费6小时在手机上.
+>
+>     自己: According to statistics, Chinese young people spend 6 hours on smart phones per day on average.
+>
+>     参考: 
+>
+>     1. The statistics show that ==the average Chinese young people== spend six hours per day on mobile phones.
+>     2. The statistics show that on average, a Chinese young person spends six hours per day on mobile phones.
+>
+> 2. 无论学习或工作多忙, 我们都应该花更多时间陪伴父母.
+>
+>     自己: No matter how busy we are, we should spend more time with our parents.
+>
+>     修改: No matter how busy we are with learning or work stuff, we should spend more time with our parents.
+>
+>     参考: 
+>
+>     1. No matter how occupied we are with learning or work stuff, we should spend more time with our parents.
+
+
+
+### lack
+
+> ==lack(动词) something== 缺少某物(品质等)
+>
+> ==be lacking(形容词) in something== 在某方面比较缺乏
+>
+> ==a lack(名词) of something== 缺乏某物(品质等)
+>
+> ==not lack(动词) for something== 不缺少某物(品质等)
+>
+> 
+>
+> 练习
+>
+> 1. 有些社会观察员指出, 越来越多的孩子缺乏自制能力, 收到父母或爷爷溺爱的孩子尤其如此
+>
+>     自己: Some social observers indicate that more and more children are laking in self-control, especially those spoilt by their parents or grandparents.
+>
+>     [注] especially后面的部分是同位语, 用以修饰children, 应该放在children后面, 如果放在句子最后面, 可能会让人以为是修饰 self-control 的.
+>
+>     参考: 
+>
+>     1. Some observers point out that more and more children, especially those spoilt by their parents and grandparents, lack self-control.
+>
+>     指出可以用 point out;   argue;   say;   remark;
+>
+> 2. 因为大众缺乏对环境的忧虑, 所以大量的塑料垃圾进入河流并最终进入大海.
+>
+>     自己：A great number of plastic waste goes to rivers and eventually goes to the sea in that public lack of awareness of ==the== environment.
+>
+>     加上the才表示自然环境，而不是其他的环境
+>
+>     参考：
+>
+>     1. Because of an obvious lack of public concern about/for the environment, a huge amount of plastic waste ends up in rivers and eventually in seas.
+>     2. Because the public lacks concern abou/for the environment, ...
+
+
+
+### share 
+
+> ==share something with someone== 与某人分享某物/共用某物
+>
+> ==share something between/among someone== 分配/分摊
+>
+> ==[名词/形容词]+share== 某物/方面所占比重
+>
+> 
+>
+> 练习：
+>
+> 1. 为了和室友保持良好关系，你可以经常和他们分享你的食物、生活用品以及有趣的经历等等。
+>
+>     自己：
+>
+>     In order to keep a good relationship with your dormmates, you can share your food, 用品, and some funny experiences with them.
+>
+>     ==修改:== 宾语后置
+>
+>     参考：
+>
+>     1. To maintain a good relationship with your roommates, you could often share with them your foods, articles for daily use, interesting experiences and so on.
+>
+>         ==experiences加s表示经历，不加s表示经验==
+>
+>     2. You could maintain a good relationship with your roommates by sharing with them your....
+>
+> 2. 很多大学毕业生认同这么一个观念：一份开心的工作比一份高薪的工作更重要
+>
+>     自己：
+>
+>     Many graduates share a note that happiness is more important than a high pay in work.
+>
+>     参考：
+>
+>     1. The belief is shared among a great many college graduates that a job making them happy is better than a well-paid one.                        //同位语从句，后置
+>     2. A great many college graduates share the idea that a job making them happy is more important than a well-paid one.                        //同位语从句
+>     3. It is a shared belief among a great many college graduates that a job making them happy is more important than a well-paid one.      //主语从句
+
+### prefer / preference
+
+> ==prefer something== 偏爱某物
+>
+> ==prefer to do something== 偏爱做某事
+>
+> ==prefer something to something==喜欢某物多过某物
+>
+> ==prefer that...==	(宾语从句)喜欢...
+>
+> ==I would prefer it if ...==     (谓语动词用一般过去式形式)要是....我会很高兴
+>
+> ==a/an/the preference for something== 对某物的偏爱
+>
+> ==have/express a preference for.....==	对...更偏好(长期)
+>
+> ==give preference/priority to something==		优先考虑某事
+>
+> 
+>
+> 练习
+>
+> 1. 精通至少一门乐器、有舞台表演经验以及善于调动观众情绪的优先考虑
+>
+>     自己：
+>
+>     We will give preference to those mastering at least one instrument, having actor/actress experience, and those who are good at warming up the audience.
+>
+>     参考：
+>
+>     1. Those who master at least one type of instrument, have stage experience and are good at warming up the audience are preferred.
+>     2. Preferred candidates should master at least one type of instrument, have stage experience or be adept at warming up the audience.
+>
+> 2. 生男孩这种偏好在亚洲国家和地区根深蒂固，在中国、韩国、新加坡尤其如此
+>
+>     自己：
+>
+>     The preference for male offspring is entreneched in Asia countries, especially in China, Korea and Singapore.
+>
+>     错误：亚洲的 - Asian
+>
+>     参考：
+>
+>     1. The preference for boy babies is deep-rooted in Asian countries and areas, especially in China, South Korea, and Singapore.
 
 ## 句子积累
 
@@ -131,6 +294,12 @@
 9. Resilient people do not give up in the face of adversity.
 
     坚韧的人在逆境面前不会放弃
+    
+10. No matter what adversity we face, we stand for what is right.
+
+    不管前方有什么困难，我们依然要坚持正义
+
+11. Certain serious diseases can be successfully treated if detected in an incipient stage.
 
 
 
