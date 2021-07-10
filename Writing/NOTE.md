@@ -58,6 +58,36 @@
 
 ...的能力:  the ability to do     // 不能用 of doing !!!
 
+在...中根深蒂固	be deep-rooted in...
+
+统计表明	the statistics show that....
+
+国产汽车	domestic cars
+
+忙于做某事	be occupied with (doing) something
+
+创新能力：capacity for innovation
+
+拼搏精神：fighting spirit
+
+获得广泛认可：gain wide recognition
+
+和...保持良好关系：maintain a good relationship with...
+
+人际交往：interpersonal communication
+
+高薪工作：a well-paid job
+
+舞台经验：stage experience
+
+调动观众情绪：warm up the audience
+
+上班族：commuters/people who commute to offices
+
+文艺汇演：culture and art show
+
+
+
 ## 高频词用法
 
 ### reason
@@ -258,6 +288,100 @@
 >     参考：
 >
 >     1. The preference for boy babies is deep-rooted in Asian countries and areas, especially in China, South Korea, and Singapore.
+
+
+
+### prepare/preparation
+
+> ==prepare food/meal/plan/document==	准备食物/餐食/计划/文件
+>
+> ==prepare for exam/test/contest/trial==	准备(参加)考试/测试/比赛/考验
+>
+> 上面两个的区别是加没加for，加for代表自己是参加考试，不加for,  prepare a exam 表示自己准备举办一个考试
+>
+> ==prepare to do something==	准备做某事
+>
+> ==prepare oneself for something==	为(做)某事做好准备
+>
+> ==be prepared for something==	为(做)某事做好准备
+>
+> ==prepare someone for something==	使某人为做某事做好准备
+>
+> ==make preparation(s) for something==	为(做)某事做好准备
+>
+> ==do something in preparation for something==	为做某事而事先做好某事
+>
+> 
+>
+> 练习：
+>
+> 1. 准备一顿饭往往非常耗费时间，所以生活上独立的上班族往往吃外卖
+>
+>     自己：
+>
+>     Preparing a meal is a time-consuming work, so commuters living on their own often eat takeaways.
+>
+>     参考：
+>
+>     1. Because preparing a meal is very time-consuming, commuters living on their own often eat takeaways.
+>     2. Because preparing a meal is very time-consuming, commuters living on their own often ==order meals online.==
+>
+> 2. 我不能参加毕业典礼，因为我现在在纽约，正为即将到来的国际数学竞赛做准备
+>
+>     自己：
+>
+>     I cannot participate in the graduation ceremony, because I am in New York, preparing for the upcoming International Math Contest.
+>
+>     参考：
+>
+>     I cannot ==attend== the graduation ceremony because I am in New York right now, making preparations for the upcoming international math contest.
+
+
+
+### major
+
+> a (an) history/psychology/English/math major	(名词)	一位历史学/心理学/英语/数学专业学生
+>
+> major in	主修...专业
+>
+> One's major is....	某人的主修专业是...
+>
+> major problem / crisis	主要问题/危机
+>
+> major role / change	重要作用/重大改变
+>
+> 
+>
+> 练习：
+>
+> 1. 主修科学、工程学、数学和技术领域的学生起薪更高，进入管理层也更快，而且在经济下滑时期也恢复得更好
+>
+>     自己：==翻不出来==
+>
+>     Students majoring in science, engineering, math, and technology have a higher start salary, enter the management roles sooner, and recover ..
+>
+>     参考：
+>
+>     Students who major in scientific, engineering, mathematical and ==technological fields== get higher ==starting salaries==, ==move into management== faster and recover better ==during economic downturn==.
+>
+> 2. 这项研究的主要目的是弄明白家庭环境会对孩子性格塑造有多大影响。
+>
+>     自己：
+>
+>     The major purpose of this research is to figure out what extent the household environment can influence children's character.
+>
+>     参考：
+>
+>     1. The major purpose of this study was to figure out ==to what extent== the family environment can influence children's character building
+>     2. The major purpose of this study was to figure out how much influence the family environment can exert / have on children's character building.
+>
+> 
+
+
+
+
+
+
 
 ## 句子积累
 
