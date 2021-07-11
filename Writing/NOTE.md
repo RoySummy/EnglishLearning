@@ -379,9 +379,89 @@
 
 
 
+### fail/failure
+
+> Something fails	某事以失败告终
+>
+> fail in one's attempt to do something	某人没能做成某事
+>
+> fail to do something	没能做成某事
+>
+> fail a subject	没能完成一门学科
+>
+> fail a test/exam	测试/考试失利
+>
+> never fail to do something	从未做不到某事
+>
+> fail someone	让某人失望
+>
+> failure to do something	没能做成某事
+>
+> 
+>
+> 1. 因为久坐的生活方式，不少高中生和大学生长期缺乏锻炼，因此往往无法通过常规体能测试
+>
+>     自己：
+>
+>     Because of the sedentary life style, a lot of high school and college students are lacking in exercises and often fail the regular health test.
+>
+>     参考:
+>
+>     Because of their sedentary lifestyle, ==quite a== few high school and college students ==have long lacked exercise and thus== often fail ==physical fitness tests==.
+>
+> 2. 每个人都应该明白能够接收失败是生命中不可或缺的一部分
+>
+>     自己：
+>
+>     Everyone should understand that the ability to accept failure is an indispensable part of life.
+>
+>     参考：
+>
+>     Every one of us should understand that being able to accept failure is part of life.
+>
+>     a part of ... 表示...的一部分
+>
+>     part of ... = an indispensable part of....
 
 
 
+### suggest/suggestion
+
+> suggest something to someone	给某人提出某建议
+>
+> suggest doing something	建议做某事
+>
+> suggest (that) someone (should) do something	建议或主张某人应该做某事
+>
+> suggest what/how//where to do something	建议做某事/如何做某事/在何处做某事
+>
+> suggest (that) ... 	暗示某事存在/发生
+>
+> suggestion about / for something	关于某事的建议
+>
+> 
+>
+> 1. 统计数字表明对薪水和办公环境感到满意的员工不足三分之一
+>
+>     自己：
+>
+>     The statistic figures suggest that the proportion of employees who are statisfied with their salary and working environment are less than a third.
+>
+>     参考：
+>
+>     The statistics suggest that less than one third of the staff are statisfied with their ==salaries== and work environment.
+>
+> 2. 我建议你去读冯庆华的《实用翻译教程》，这本书内容全面，译文质量很高
+>
+>     自己：
+>
+>     I suggest you read A Practical Coursebook on Translation wriiten by Feng Qinghua, which has comprehensive contents and high-quality translations.
+>
+>     参考：
+>
+>     I suggest that you read *A Practical Coursebook* on Translation by Feng Qinghua, a comprehensive book that provides high-quality translated texts.
+
+ 
 
 ## 句子积累
 
